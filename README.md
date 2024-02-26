@@ -11,6 +11,6 @@ Currently learning Python and the stack of technologies that goes hand-in-hand w
 
 ## Contact Me :bell:
 
-- 📧 [Email](mailto:kirillnovoselov127@gmail.com) kirillnovoselov127@gmail.com
+- 📧 Email: kirillnovoselov127@gmail.com
 
-- :speech_balloon: [Telegram](https://t.me/knovoselov) https://t.me/knovoselov
+- :speech_balloon: Telegram: https://t.me/knovoselov
